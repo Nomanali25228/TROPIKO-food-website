@@ -1,0 +1,41 @@
+.htag{
+    text-align: center;
+    margin-top: 70px;
+}
+.ptag{
+    text-align: center;
+    margin-top: 0px;
+}
+.displayCard{
+    display: flex;
+    justify-content:space-evenly;
+}
+
+.readmoreBut{
+    height: 39px;
+    width: 130px;
+    background-color: black;
+    color: white;
+    margin-left: 600px;
+    margin-top: 65px;
+    border: none;
+}
+.tagp{
+    margin-top: 9px;
+    font-size: 16px;
+}
+@media screen and (max-width: 350px) {
+    .displayCard{
+        display: inline;
+        justify-content:space-evenly;
+    }
+    .readmoreBut{
+        height: 39px;
+        width: 130px;
+        background-color: black;
+        color: white;
+        margin-left: 120px;
+        margin-top: 65px;
+        border: none;
+    }
+}

@@ -1,0 +1,100 @@
+.displayFlex{
+    display: flex;
+}
+.welcomeTexts{
+    margin-left: 85px;
+    margin-top: 90px;
+    font-size: 40px;
+    
+}
+.fruitTexts{
+    margin-left: 85px;
+    margin-top: -30px;
+    font-size: 40px;
+}
+.ptagmiendiv{
+    margin-left: 60px;
+    
+}
+.displayFlexss{
+    display: flex;
+}
+
+.shopbutton{
+    background-color: rgb(255, 165, 0);
+    border: none;
+    height: 50px;
+    width: 150px;
+    margin-left: 85px;
+    margin-top: 50px;
+    color: white;
+}
+.contectbutton{
+    background-color: rgb(0, 0, 0);
+    border: none;
+    height: 50px;
+    width: 150px;
+    margin-left: 5px;
+    margin-top: 50px;
+    color: white;
+
+}
+.friuteImg{
+    margin-right: 80px;
+    margin-top: 20px;
+    height: 440px;
+}
+@media screen and (max-width: 350px) {
+    .displayFlex{
+        display: inline;
+    }
+    .welcomeTexts{
+        margin-left: 15px;
+        margin-top: 50px;
+        font-size: 40px;
+        
+    }
+    .fruitTexts{
+        margin-left: 15px;
+        margin-top: -30px;
+        font-size: 40px;
+    }
+    
+.ptagmiendiv{
+    margin-left: 10px;
+    margin-left: 0px;
+    
+}
+
+.shopbutton{
+    background-color: rgb(255, 165, 0);
+    border: none;
+    height: 50px;
+    width: 150px;
+    margin-left: 15px;
+    margin-top: 50px;
+    color: white;
+}
+.contectbutton{
+    background-color: rgb(0, 0, 0);
+    border: none;
+    height: 50px;
+    width: 150px;
+    margin-left: 0px;
+    margin-top: 50px;
+    color: white;
+
+}
+.friuteImg{
+    margin-right: 80px;
+    margin-top: 20px;
+    height: 227px;
+    margin-left: 15px;
+}
+
+
+
+}
+
+
+

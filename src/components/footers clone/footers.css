@@ -1,0 +1,22 @@
+
+.contenar{
+    margin-left: 85px;
+    margin-top: 60px;
+
+}
+.perantPtag{
+    margin-top: -5px;
+    margin-left: 8px;
+}
+.childPtage{
+    margin-top: -11px;
+    margin-left: 8px;
+}
+@media screen and (max-width: 350px) {
+    .contenar{
+        margin-left: 15px;
+        margin-top: 20px;
+    
+    }
+
+}

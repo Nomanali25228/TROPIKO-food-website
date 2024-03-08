@@ -1,0 +1,72 @@
+.footerFlex{
+    display: flex;
+}
+.cardmaegin{
+      margin-left: 150px;
+}
+.follwingcard{
+    margin-left: 200px;
+    margin-top: 40px;
+}
+.imgflex{
+    display: flex;
+    margin-top: -15px;
+}
+.imagemargien{
+    margin-left: 10px;
+}
+.nowmargien{
+    margin-top: 0px;
+}
+.lastinput{   
+    border: solid 2px;
+    width: 200px;
+    height: 25px;
+    border-radius: 3px;
+    padding-left: 10px;
+}
+.subcribebut{
+    height: 39px;
+    width: 130px;
+    background-color: rgb(238, 155, 2);
+    color: white;
+    margin-top: 20px;
+    border: none;
+}
+.tagp{
+    margin-top: 9px;
+    font-size: 15px;
+}
+.githublink{
+    font-size: 15px;
+    margin-left: 520px;
+    margin-top: 30px; 
+}
+@media screen and (max-width: 350px) {
+    .footerFlex{
+        display: inline;
+    
+    }
+    .cardmaegin{
+  
+        margin-left: 0px;
+    }
+    .follwingcard{
+        margin-left: 15px;
+        margin-top: 40px;
+    }
+    .lastinput{
+    
+        border: solid 1px;
+        width: 200px;
+        height: 25px;
+        border-radius: 3px;
+        padding-left: 10px;
+    }
+    
+.githublink{
+   display: inline;
+   
+}
+
+}

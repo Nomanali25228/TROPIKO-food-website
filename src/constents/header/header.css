@@ -1,0 +1,97 @@
+.navebardisplay{
+    display: flex;
+}
+.headerpic{
+    margin-left: 85px;
+    margin-top: 30px;
+    height: 60px;
+}
+.tropiko{
+    margin-top: 37px;
+    margin-left: 5px;
+    font-size: 35px;
+}
+.parents{
+    margin-left: 330px;
+    margin-top: 47px;
+    font-size: 20px;
+    color: rgb(101, 154, 156);
+}
+.parents:hover{
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+}
+.children{
+    font-size: 20px;
+    margin-top: 47px;
+    margin-left: 35px;
+    color: rgb(101, 154, 156);
+}
+.children:hover{
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+}
+.sercheimg{
+    margin-top: 40px;
+    margin-left: 35px;
+    height: 35px;
+}
+.quatebut{
+    background-color: rgb(255, 165, 0);
+    border: none;
+    height: 40px;
+    margin-top: 35px;
+    margin-left: 35px;
+    width: 120px;
+    color: white;
+    
+
+}
+.getAquote{
+
+    margin-top:10px;
+    font-size: 16px;
+}
+.threeline{
+    height: 50px;
+    margin-top: 30px;
+    display: none;
+}
+@media screen and (max-width: 350px) {
+   
+.headerpic{
+        margin-left: 10px;
+        margin-top: 20px;
+        height: 50px;
+}
+.tropiko{
+    margin-top: 24px;
+    margin-left: 5px;
+    font-size: 30px;
+}
+.parents{
+    display: none;
+}
+.parents:hover{
+    display: none;
+}
+.children{
+    display: none;
+}
+.children:hover{
+    display: none;
+}
+.sercheimg{
+    display: none;
+}
+
+.quatebut{
+ display: none;
+    }
+.threeline{
+    height:55px;
+    margin-top: 17px;
+    display: inline;
+    margin-left: 95px;
+}
+  }

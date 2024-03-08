@@ -1,0 +1,138 @@
+.centertesti{
+text-align: center;
+margin-top: 75px;
+}
+.centerPera{
+    text-align: center;
+    margin-top: 0px;
+}
+.centerManPic{
+    margin-left: 475px;
+    margin-top: 50px;
+}
+.centerJohnhex{
+    text-align: center;
+    margin-top: 30px;
+}
+.loremCenter{
+    margin-left: 88px;
+    margin-right: 112px;
+}
+.lastLineCenterLorem{
+    margin-left: 280px;
+}
+.inputFlex{
+    display: flex;
+}
+.ContactMargine{
+    margin-left: 85px;
+    margin-top: 60px;
+    font-size: 35px;
+}
+.inputname{
+    margin-left: 85px;
+    height: 40px;
+    outline: none;
+    border-top: none ;
+    border-left: none ;
+    border-right: none ;
+    border-bottom:solid 2px;
+    width: 800px;
+    text-size-adjust: 20px;
+    margin-top: 20px;
+    
+}
+.inputnamelast{
+    margin-left: 85px;
+    height: 40px;
+    outline: none;
+    border-top: none ;
+    border-left: none ;
+    border-right: none ;
+    border-bottom:solid 2px;
+    width: 800px;
+    text-size-adjust: 20px;
+    margin-top: 60px;
+}
+.sendBut{
+    height: 39px;
+    width: 120px;
+    background-color: rgb(238, 155, 2);
+    color: white;
+    margin-left: 85px;
+    margin-top: 65px;
+    border: none;
+}
+.tagp{
+    margin-top: 9px;
+    font-size: 15px;
+}
+.lemonpic{
+    height: 420px;
+    margin-top: 70px;
+    margin-right: 115px;
+}
+@media screen and (max-width: 350px) {
+
+    .centerManPic{
+        margin-left:20px;
+        margin-top: 20px;
+        height: 310px;
+        width: 310px;
+    }
+    .loremCenter{
+        margin-left: 25px;
+        margin-right:40px;
+    }
+    .lastLineCenterLorem{
+        margin-left: 10px;
+    }
+    .ContactMargine{
+        margin-left: 15px;
+        margin-top: 30px;
+        font-size: 30px;
+    }
+    
+.inputname{
+    margin-left: 15px;
+    height: 40px;
+    outline: none;
+    border-top: none ;
+    border-left: none ;
+    border-right: none ;
+    border-bottom:solid 2px;
+    width: 310px;
+    text-size-adjust: 20px;
+    margin-top: 20px;
+    
+}
+.inputnamelast{
+    margin-left: 15px;
+    height: 40px;
+    outline: none;
+    border-top: none ;
+    border-left: none ;
+    border-right: none ;
+    border-bottom:solid 2px;
+    width:310px;
+    text-size-adjust: 20px;
+    margin-top: 60px;
+}
+
+.lemonpic{
+    display: none;
+}
+
+.sendBut{
+    height: 39px;
+    width: 120px;
+    background-color: rgb(238, 155, 2);
+    color: white;
+    margin-left: 15px;
+    margin-top: 65px;
+    border: none;
+}
+
+
+
+}
